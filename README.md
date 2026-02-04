@@ -29,6 +29,11 @@ This project demonstrates the complete data science workflow including data clea
 ![Dashboard](image.png)
 
 
+## 🌐 Live Dashboard
+
+[PASTE_YOUR_STREAMLIT_LINK_HERE](https://mytkuocsrovfqxbbqfd4bg.streamlit.app/)
+
+
 ## Key Outcomes
 
 - Identified rainfall trends through visual analysis  
