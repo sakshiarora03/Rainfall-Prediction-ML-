@@ -5,14 +5,15 @@ st.set_page_config(page_title="Rainfall Prediction Dashboard")
 
 st.title("Rainfall Prediction Dashboard")
 
-# change filename if yours is different
-df = pd.read_csv("rainfall.csv")
+# Load cleaned dataset
+df = pd.read_csv("clean_rainfall.csv")
 
-st.subheader("Dataset")
-st.dataframe(df)
+st.subheader("Dataset Preview")
+st.dataframe(df.head())
 
-if "Rainfall" in df.columns:
-    st.subheader("Rainfall Trend")
-    st.line_chart(df["Rainfall"])
+st.subheader("Rainfall Trend")
+
+if df.shape[1] > 1:
+    st.line_chart(df.iloc[:, 1])
 
 st.write("Built by Sakshi Arora")
