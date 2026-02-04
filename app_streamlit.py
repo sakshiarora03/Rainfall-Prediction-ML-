@@ -10,9 +10,10 @@ MONTHS = ["JAN","FEB","MAR","APR","MAY","JUN",
           "JUL","AUG","SEP","OCT","NOV","DEC"]
 
 # ================= LOAD DATA =================
-df = pd.read_csv("data/processed/clean_rainfall.csv")
-model = joblib.load("models/best_rainfall_model.pkl")
-model_cmp = pd.read_csv("models/model_comparison_results.csv")
+df = pd.read_csv("clean_rainfall.csv")
+model = joblib.load("best_rainfall_model.pkl")
+model_cmp = pd.read_csv("model_comparison_results.csv")
+
 
 subdivisions = sorted(df["SUBDIVISION"].unique())
 
