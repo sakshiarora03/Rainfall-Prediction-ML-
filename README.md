@@ -26,7 +26,8 @@ This project demonstrates the complete data science workflow including data clea
 
 ## Preview
 
-(Add visualization screenshots here)
+![Dashboard](image.png)
+
 
 ## Key Outcomes
 
