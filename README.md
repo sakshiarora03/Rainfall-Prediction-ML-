@@ -31,7 +31,7 @@ This project demonstrates the complete data science workflow including data clea
 
 ## 🌐 Live Dashboard
 
-[PASTE_YOUR_STREAMLIT_LINK_HERE](https://mytkuocsrovfqxbbqfd4bg.streamlit.app/)
+[LIVE DASHBOARD](https://mytkuocsrovfqxbbqfd4bg.streamlit.app/)
 
 
 ## Key Outcomes
