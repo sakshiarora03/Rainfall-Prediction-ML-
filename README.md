@@ -26,11 +26,11 @@ This project demonstrates the complete data science workflow including data clea
 
 ## Preview
 
+<img width="1470" height="950" alt="Screenshot 2025-12-22 at 3 13 28 AM" src="https://github.com/user-attachments/assets/84ea97e2-231a-433e-b9fc-6e61a09ee899" />
+
 <img width="1470" height="956" alt="Screenshot 2025-12-22 at 3 15 16 AM" src="https://github.com/user-attachments/assets/babafaf0-da3e-4b02-b586-b9f48fc7acdd" />
 
 <img width="1126" height="475" alt="Screenshot 2025-12-22 at 3 13 59 AM" src="https://github.com/user-attachments/assets/fa431e58-8597-4dfe-9587-4c3861cdd9bd" />
-
-<img width="500" height="323" alt="Screenshot 2025-12-22 at 3 13 28 AM" src="https://github.com/user-attachments/assets/a37aa2c0-1917-471c-b233-8142a573140f" />
 
 <img width="1470" height="956" alt="Screenshot 2025-12-22 at 3 15 24 AM" src="https://github.com/user-attachments/assets/8be573b1-4bc2-4619-960c-611c7a0949d6" />
 
